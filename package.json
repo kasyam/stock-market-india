@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sr-creations/stock-market-prediction"
+    "url": "git+https://github.com/sr-creations/stock-market-prediction.git"
   },
   "keywords": [
     "api",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/sr-creations/stock-market-prediction/issues"
   },
-  "homepage": "https://github.com/sr-creations/stock-market-prediction/#readme",
+  "homepage": "https://github.com/sr-creations/stock-market-prediction#readme",
   "dependencies": {
     "axios": "^0.18.1",
     "express": "^4.16.4",
