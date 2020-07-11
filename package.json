@@ -1,14 +1,14 @@
 {
-  "name": "stock-market-india",
+  "name": "stock-market-prediction",
   "version": "1.0.0",
-  "description": "\"An API Library which fetches data from Bombay Stock Exchange and National Stock Exchange and returns data in JSON format.\"",
+  "description": "\"An API Library which fetches data from BSE and NSE and returns data in JSON format.\"",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maanavshah/stock-market-india.git"
+    "url": "git+https://github.com/sr-creations/stock-market-prediction.git"
   },
   "keywords": [
     "api",
@@ -22,12 +22,12 @@
     "node",
     "express"
   ],
-  "author": "Maanav Shah",
+  "author": "SR",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maanavshah/stock-market-india/issues"
+    "url": "https://github.com/sr-creations/stock-market-prediction/issues"
   },
-  "homepage": "https://github.com/maanavshah/stock-market-india#readme",
+  "homepage": "https://github.com/sr-creations/stock-market-prediction#readme",
   "dependencies": {
     "axios": "^0.18.1",
     "express": "^4.16.4",
